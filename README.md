@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olesyaak
-- 👀 I’m interested in Grafic Design and Illustration
-- 🌱 I’m currently learning QA, Python, JS
-- 💞️ I would like to be invited as QA trainee
+- 👀 I’m interested Data Science
+- 🌱 I’m currently learning Python, data science field
+- 💞️ I would like to be invited as data science trainee
 - 📫 The best way to reach me is email
 
 <!---
